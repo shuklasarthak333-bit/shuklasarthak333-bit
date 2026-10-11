@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech CSE (AI & ML) @ ABES Engineering College</b><br>
-  Web Development • UI/UX Design • Content Creation
+  Web Development • UI/UX Design 
 </p>
 
 <p align="center">
