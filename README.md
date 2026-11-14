@@ -1,107 +1,110 @@
-<h1 align="center">Hi, I'm Sarthak Shukla 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>B.Tech CSE (AI & ML) @ ABES Engineering College</b><br>
-  Web Development • UI/UX Design 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarthak%20Shukla&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=CSE%20(AI%20%26%20ML)%20%C2%B7%20ABES%20Engineering%20College&descSize=17&descAlignY=62" alt="Sarthak Shukla" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-shukla-13893a329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:shuklasarthak333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/u/sarthak_0406/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.codechef.com/users/cse25_0101872"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-</p>
+<a href="https://github.com/shuklasarthak333-bit"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+developer;UI%2FUX+designer;Event+photographer;Learning+AI+%26+ML" alt="Typing animation" /></a>
 
----
+<br>
 
-## 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-shukla-13893a329/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklasarthak333@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarthak_0406/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/cse25_0101872)
 
-- 🎓 Computer Science & Engineering undergraduate at **ABES Engineering College, Ghaziabad** (2024 – 2028), **CGPA: 8.2/10** (till 4th semester)
-- 🤖 Focused on **Artificial Intelligence & Machine Learning** and **Web Development**
-- 🎨 Hands-on experience in frontend development, UI/UX design, and content creation
-- 🤝 Active in student organizations, event teams, and collaborative technical and creative projects
-- 📚 Currently learning **DBMS**
-- 🌱 Adaptable and always eager to learn something new
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Programming**
+I'm a second-year B.Tech student at ABES Engineering College, Ghaziabad (2024–2028), studying CSE with a specialization in AI & ML. Current CGPA: **8.2 / 10**.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+I build websites and design the interfaces for them. Outside of code, I run content and graphics for a college tech club and shoot photos at campus events.
 
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-
-**Tools & Databases**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-**Core CS:** Object-Oriented Programming • DBMS *(learning)*
+Right now I'm working through **DBMS** and building a weather app.
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### 🌍 EUCATASTROPHE — Emergency Information Portal
-> Built for the **Smart India Hackathon**
+<div align="center">
 
-An emergency information portal focused on disaster awareness and emergency management, designed to give users relevant information during potentially hazardous situations.
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,git,github,vscode,figma&perline=11" alt="Tech stack" />
 
-### 🌤️ Mausam — Weather Information Web Application
-> 🚧 Ongoing
+<br><br>
 
-A weather-focused web application inspired by modern weather platforms, with an intuitive and user-friendly interface. Currently being expanded with additional weather-related features.
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-🔗 [SIH-Mausam Repository](https://github.com/YOUR_GITHUB_USERNAME/SIH-Mausam)
-
----
-
-## 🏫 Experience & Leadership
-
-| Role | Organization | Highlights |
-|------|--------------|------------|
-| **Content & Graphics Head** | TRISHUL, ABESEC | Grew from volunteer to head; manage promotional and social-media content using Canva and Figma; shape the club's visual identity |
-| **Events Head** | UBA, ABESEC | Managed and coordinated event-related activities |
-| **Graphics Team Member** | GENERO, ABESEC | Created event graphics and promotional content for the college cultural fest |
-| **Event Photographer** | College Events | Covered events using professional-grade camera equipment |
+</div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## Projects
 
-- 🥇 **Smart India Hackathon (SIH)** — Internal Round Qualified, 6th Place at College Level
-- 🎓 **HCL GUVI** — Certification
-- 🙌 **I3 Summit** — Volunteer Certificate
-- 🎤 **Dialogue Derby** — Finalist
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 EUCATASTROPHE
+**Disaster information portal**
+
+Built for the Smart India Hackathon. It collects emergency and disaster-awareness information in one place so people can find it quickly during a crisis.
+
+`HTML` `CSS` `JavaScript`
+
+[View repo →](https://github.com/shuklasarthak333-bit/YOUR_REPO_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌤️ Mausam
+**Weather web app** · *in progress*
+
+A weather app with a clean, simple interface. I'm adding more features as I go.
+
+`HTML` `CSS` `JavaScript`
+
+[View repo →](https://github.com/shuklasarthak333-bit/SIH-Mausam)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuklasarthak333-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasarthak333-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
-</p>
+| Role | Where | What I do |
+|:--|:--|:--|
+| **Content & Graphics Head** | TRISHUL, ABESEC | Started as a volunteer, now lead the club's social media content and visual identity in Canva and Figma |
+| **Events Head** | UBA, ABESEC | Coordinate and run the club's events |
+| **Graphics Team** | GENERO, ABESEC | Designed event graphics and promotional material for the college cultural fest |
+| **Event Photographer** | College events | Cover campus events with a DSLR/mirrorless setup |
 
 ---
 
-<p align="center">
-  ⭐ Thanks for stopping by! Feel free to connect or collaborate. 😊
-</p>
+## Achievements
+
+- **Smart India Hackathon:** qualified the internal round, placed 6th at college level
+- **Dialogue Derby:** finalist
+- **I3 Summit:** volunteer
+- **HCL GUVI:** certification
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shuklasarthak333-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasarthak333-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=shuklasarthak333-bit&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
