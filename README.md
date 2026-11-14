@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarthak%20Shukla&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=CSE%20(AI%20%26%20ML)%20%C2%B7%20ABES%20Engineering%20College&descSize=17&descAlignY=62" alt="Sarthak Shukla" />
+<img src="assets/banner.svg" alt="Sarthak Shukla - Frontend Developer and UI/UX Designer" width="100%" />
 
-<a href="https://github.com/shuklasarthak333-bit"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+developer;UI%2FUX+designer;Event+photographer;Learning+AI+%26+ML" alt="Typing animation" /></a>
+<br><br>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-shukla-13893a329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklasarthak333@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarthak_0406/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/cse25_0101872)
+<a href="https://www.linkedin.com/in/sarthak-shukla-13893a329/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="36" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:shuklasarthak333@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="36" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/sarthak_0406/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="36" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/cse25_0101872"><img src="https://cdn.simpleicons.org/codechef/B0825A" alt="CodeChef" height="36" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/shuklasarthak333-bit"><img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="36" /></a>
 
 </div>
 
