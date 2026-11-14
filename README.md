@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/sarthak-shukla-13893a329/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="36" /></a>
+<a href="https://www.linkedin.com/in/sarthak-shukla-13893a329/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="36" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:shuklasarthak333@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="36" /></a>
 &nbsp;&nbsp;&nbsp;
