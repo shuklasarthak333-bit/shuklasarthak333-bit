@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sarthak Shukla - Frontend Developer and UI/UX Designer" width="100%" />
+<img src="banner.svg" alt="Sarthak Shukla - Frontend Developer and UI/UX Designer" width="100%" />
 
 <br><br>
 
